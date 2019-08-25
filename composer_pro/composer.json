@@ -1,0 +1,17 @@
+{
+    "name": "yongze/composer_pro",
+    "authors": [
+        {
+            "name": "chenyongze",
+            "email": "sapphire.php@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "yongze\\": "src"
+        },
+        "files": [
+        ]
+    }
+}
